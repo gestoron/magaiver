@@ -1,0 +1,8 @@
+0000000000000000000000000000000000000000 9419b7ba3b114cbef00ed4a4577d1a78591d2167 Kyama <anaarcine7@gmail.com> 1784296213 -0300	commit (initial): Corrige confirmação de cadastro e chat em tempo real
+9419b7ba3b114cbef00ed4a4577d1a78591d2167 cabb57cd5f9ba50105034161efe69f3e2ae8389b Kyama <anaarcine7@gmail.com> 1784552250 -0300	checkout: moving from master to main
+cabb57cd5f9ba50105034161efe69f3e2ae8389b cabb57cd5f9ba50105034161efe69f3e2ae8389b Kyama <anaarcine7@gmail.com> 1784552268 -0300	reset: moving to cabb57cd5f9ba50105034161efe69f3e2ae8389b
+cabb57cd5f9ba50105034161efe69f3e2ae8389b 527a834889f57bef29046beecef57879abd9fc61 Kyama <anaarcine7@gmail.com> 1784552311 -0300	commit: feat: confirmacao de email via OTP e chat em tempo real
+527a834889f57bef29046beecef57879abd9fc61 229d724aeecb04b6cf7f4c07a21040004f0ba754 Kyama <anaarcine7@gmail.com> 1784560287 -0300	commit: fix: remove BOM dos arquivos TSX para corrigir build Vercel
+229d724aeecb04b6cf7f4c07a21040004f0ba754 fa067f389bd5114913730f67797523424b432f2c Kyama <anaarcine7@gmail.com> 1784560430 -0300	commit: fix: restaura acentuacao correta (UTF-8 sem corrupcao de encoding)
+fa067f389bd5114913730f67797523424b432f2c 9d02dd972bc09fa9a92ff2179ffb424b426b61a0 Kyama <anaarcine7@gmail.com> 1784561357 -0300	commit: fix: valida cadastro no frontend e torna trigger do banco robusta contra nulos/erros de cast
+9d02dd972bc09fa9a92ff2179ffb424b426b61a0 45967f1206f4965012b157bf6041a514f4e65d9e Kyama <anaarcine7@gmail.com> 1784561610 -0300	commit: fix: adiciona delecao de perfil orfao com mesmo email na trigger
